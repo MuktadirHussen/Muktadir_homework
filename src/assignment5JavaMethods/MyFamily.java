@@ -2,8 +2,6 @@ package assignment5JavaMethods;
 
 public class MyFamily {
 
-	// value initialized
-
 	public int child1Age = 10;
 	public int child2Age = 15;
 	public int child3Age = 13;
