@@ -6,14 +6,14 @@ public class Voter {
 
 		int age = 35;
 
-		if (age == 35) {
+		if (age == 18) {
 			System.out.println("I am a voter");
 
-		} else if (age < 35) {
+		} else if (age < 18) {
 			System.out.println("I am not a voter");
 		}
 
-		else if (age > 35) {
+		else if (age > 18) {
 
 			System.out.println(" I am a Voter from age 18");
 
