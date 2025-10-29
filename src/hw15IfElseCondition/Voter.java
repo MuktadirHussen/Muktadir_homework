@@ -1,5 +1,7 @@
 package hw15IfElseCondition;
 
+import java.util.Scanner;
+
 public class Voter {
 
 	public static void main(String[] args) {
